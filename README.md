@@ -37,6 +37,7 @@ To set the paths for the download directories, edit settings.h and recompile.
 At the moment, tmon supports:
 
 Music: mp3, flac, ogg
+
 Video: mkv, avi, mp4
 
 All other files get sent to MAINDIR (see settings.h).
